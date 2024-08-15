@@ -1,0 +1,69 @@
+/* Pagination CSS */
+.pagination-container{
+  /* position: fixed; */
+  /* bottom: 0; */
+  /* width: 91%; */
+  /* background: #F5F5FF 0% 0% no-repeat padding-box; */
+  /* background: white 0% 0% no-repeat padding-box; */
+}
+
+.home.open .pagination-container {
+  /* width: 78% !important; */
+  /* width: 76.5% !important; */
+  /* width: 100% !important; */
+}
+.pagintion-bar {
+  font-size: 14px;
+  padding-top: 1%  !important;
+  margin: 0 !important;
+}
+.pagintion-bar *{
+  padding: 0 !important;
+}
+
+.pagintion-bar-border{
+  border-top: 1px solid #6F6E6F;
+  opacity: 0.3;
+}
+.pagintion-bar svg {
+  cursor: pointer;
+  color : #030911
+}
+
+.pagintion-bar .disabled {
+  pointer-events: none;
+  color: #b5b9c6 !important;
+  
+}
+
+.page-list {
+  width: fit-content;
+  border: none;
+  background-color: inherit;
+}
+.page-list:focus {
+    outline: 0 !important;
+    box-shadow: none !important;
+}
+
+.bar {
+  opacity: 0.3;
+}
+
+.page-right {
+  display: flex;
+  justify-content: space-between;
+}
+/*mobile view start*/
+@media only screen and (max-width: 767px) {
+  .pagination-container{
+    position: relative !important;
+    width: 100% !important;
+  }
+  .pagintion-bar-border{
+    display: none;
+  }
+}
+
+/*mobile view end */
+/* Pagination Ends */

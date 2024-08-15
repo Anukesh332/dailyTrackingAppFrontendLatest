@@ -1,0 +1,9 @@
+<svg id="calendar-date" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Component_163_10" data-name="Component 163 – 10">
+    <rect id="calendar-date-2" data-name="calendar-date" width="24" height="24" fill="none"/>
+    <g id="Group_16749" data-name="Group 16749" transform="translate(6 -0.334)">
+      <path id="Icon" d="M0,4.533A4.969,4.969,0,0,1,.218,2.425a2,2,0,0,1,.874-.874A4.969,4.969,0,0,1,3.2,1.333H8.8a4.969,4.969,0,0,1,2.108.218,2,2,0,0,1,.874.874A4.969,4.969,0,0,1,12,4.533v5.6a4.969,4.969,0,0,1-.218,2.108,2,2,0,0,1-.874.874,4.969,4.969,0,0,1-2.108.218H3.2a4.969,4.969,0,0,1-2.108-.218,2,2,0,0,1-.874-.874A4.969,4.969,0,0,1,0,10.133Z" transform="translate(0 5.334)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Icon-2" data-name="Icon" d="M12,5.333H0M8.667,0V2.667M3.333,0V2.667" transform="translate(0 5.334)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

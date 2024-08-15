@@ -1,0 +1,11 @@
+<svg id="Component_169_1" data-name="Component 169 – 1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Path_15091" data-name="Path 15091" fill="#fff">
+    <path d="M 31.5 31.5 L 0.5 31.5 L 0.5 0.5 L 31.5 0.5 L 31.5 31.5 Z" stroke="none"/>
+    <path d="M 1 1 L 1 31 L 31 31 L 31 1 L 1 1 M 0 0 L 32 0 L 32 32 L 0 32 L 0 0 Z" stroke="none" fill="#0745d3"/>
+  </g>
+  <g id="Group_16761" data-name="Group 16761" transform="translate(-344 -362)">
+    <path id="Icon" d="M9.333,4.667,6,8,2.667,4.667" transform="translate(366 380) rotate(180)" fill="none" stroke="#0745d3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Icon-2" data-name="Icon" d="M12,8v.8a4.969,4.969,0,0,1-.218,2.108,2,2,0,0,1-.874.874A4.969,4.969,0,0,1,8.8,12H3.2a4.969,4.969,0,0,1-2.108-.218,2,2,0,0,1-.874-.874A4.969,4.969,0,0,1,0,8.8V8" transform="translate(354 372)" fill="none" stroke="#0745d3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_15091-2" data-name="Path 15091" d="M7471.509,16816v7.941" transform="translate(7831.509 17196) rotate(180)" fill="none" stroke="#0745d3" stroke-linecap="round" stroke-width="1"/>
+  </g>
+</svg>

@@ -1,0 +1,63 @@
+.table-filter-container {
+    max-width: 240px !important;
+    width: fit-content !important;
+    /* top: 20% !important; */
+}
+
+.modal-backdrop.show {
+    opacity: 0 !important;
+}
+
+.table-filter-container {
+    padding-bottom: 3% !important;
+}
+
+
+.filter-btn-action {
+    display: flex;
+    justify-content: flex-end;
+    padding-left: 1%;
+}
+
+.apply {
+    padding-left: 5%;
+    color: #3339CD;
+}
+
+.popover-arrow {
+    visibility: hidden
+}
+
+.filter-field {
+    margin-right: 10px !important;
+    border: none !important;
+    border-bottom: 1px solid black !important;
+    border-radius: 0 !important;
+    font-size: 14px !important;
+}
+
+.filter-field:focus {
+    outline: 0 !important;
+    box-shadow: none !important;
+}
+
+.filter-radio .form-check-input:checked {
+    background-color: #0636A5 !important;
+    border-color: #0636A5 !important;
+    accent-color: #0636A5 !important;
+    background-image: none !important;
+    appearance:auto !important;
+}
+.filter-btn{
+    visibility: hidden;
+    cursor: pointer;
+}
+th:hover .filter-btn{
+    visibility: visible;
+}
+
+@media only screen and (max-width: 767px) {
+    .table-filter-container {
+        display: none;
+    }
+}

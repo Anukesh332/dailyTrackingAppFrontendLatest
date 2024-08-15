@@ -1,0 +1,29 @@
+.breadcrum {
+  background-color: #E6EDFD;
+  padding: 3px 0 3px 1%;
+}
+.breadcrum *{
+  font-size: 12px !important;
+  text-decoration: none;
+}
+.breadcrumb{
+  margin: 0 !important;
+}
+
+.breadcrum-parent *{
+  color: black;
+}
+
+.breadcrum-child *{
+  /* color: #084CE8; */
+  color: #0636a5;
+}
+
+/* Mobile View Start */
+@media only screen and (max-width: 767px) {
+  .breadcrumb {
+    justify-content: center;
+  }
+}
+
+/* Mobile View End */

@@ -1,0 +1,4 @@
+<svg id="plus" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <rect id="plus-2" data-name="plus" width="16" height="16" fill="none"/>
+  <path id="Icon" d="M4.667,0V9.333M9.333,4.667H0" transform="translate(3.333 3.333)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+</svg>

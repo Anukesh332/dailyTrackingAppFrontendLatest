@@ -1,0 +1,25 @@
+.clear-search {
+    position: absolute;
+    cursor: pointer;
+    visibility: hidden;
+    top: 4px;
+    right: 30px;
+}
+
+.search-div:hover .clear-search {
+    visibility: visible;
+}
+
+.search-div {
+    position: relative;
+    padding-right: 10px;
+}
+
+td :has(.search-div){
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+.search-input{
+    border-radius: 0;
+}

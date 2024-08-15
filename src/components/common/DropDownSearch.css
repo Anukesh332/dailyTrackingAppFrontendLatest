@@ -1,0 +1,108 @@
+.css-qbdosj-Input,
+.css-1dimb5e-singleValue {
+  margin-left: 8px !important;
+}
+
+.g-input-select {
+  position: relative;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: inline-block;
+  width: 100%;
+}
+
+.g-input-select label {
+  padding: 3px;
+  font-size: 14px;
+  transition: transform 150ms cubic-bezier(0.4, 0, 0.2, 1),
+    opacity 150ms cubic-bezier(0.4, 0, 0.2, 1);
+  transform-origin: bottom left;
+  /* color: #000000; */
+  /* color: #6f6f6f; */
+  /* color: #e09d08; */
+  position: absolute;
+  top: 6px;
+  left: 10px;
+  /* cursor: text; */
+  /* z-index: 1; */
+}
+
+.g-input-select label.active {
+  padding: 3px;
+  font-size: 14px;
+  transition: transform 150ms cubic-bezier(0.4, 0, 0.2, 1),
+    opacity 150ms cubic-bezier(0.4, 0, 0.2, 1);
+  transform-origin: bottom left;
+  /* color: #000000; */
+  /* color: #6f6f6f; */
+  color: #e09d08;
+  position: absolute;
+  top: 6px;
+  left: 10px;
+  /* cursor: text; */
+  /* z-index: 1; */
+}
+
+.g-input-select select {
+  border: 1px solid #ddd;
+  display: block;
+  padding: 8px 8px 8px 15px;
+  border-radius: 0;
+  width: 100%;
+  /* cursor: text; */
+  /* color: #6F6F6F; */
+}
+
+.g-input-select:has(
+    .select__value-container--has-value,
+    .css-166bipr-Input,
+    .select__control--menu-is-open
+  )
+  label {
+  transform: translateX(6px) translateY(-84%);
+  font-size: 14px;
+  /* color: #6f6f70; */
+  /* font-family: "WorkSans-Regular"; */
+  background-color: #fff;
+}
+
+.select__control.select__control--is-disabled.css-16xfy0z-control {
+  height: 43px !important;
+  border-radius: 0 !important;
+  background-color: white;
+}
+
+.select__menu {
+  z-index: 1000;
+}
+
+.select__control.css-13cymwt-control {
+  border-radius: 0 !important;
+}
+
+.select__single-value.select__single-value--is-disabled.css-olqui2-singleValue {
+  color: #94969c !important;
+}
+
+.css-tj5bde-Svg {
+  fill: black !important;
+  stroke: #ffffff !important;
+  stroke-width: 1 !important;
+}
+
+.css-1u9des2-indicatorSeparator {
+  display: none;
+}
+
+.css-1nmdiq5-menu {
+  font-weight: 200 !important;
+}
+
+.css-t3ipsp-control {
+  min-height: 0 !important;
+  border: 1px solid #ced4da !important;
+  color: #212529 !important;
+  border-radius: 0.2rem !important;
+  font-size: 0.875rem !important;
+  font-weight: 400 !important;
+}

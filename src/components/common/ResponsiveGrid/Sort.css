@@ -1,0 +1,17 @@
+.sort {
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+    padding-right: 10px;
+    visibility: hidden;
+    cursor: pointer;
+}
+
+th:hover .sort {
+    visibility: visible;
+}
+
+.sort-icon.disabled {
+    pointer-events: none;
+    color: #b5b9c6 !important;
+}

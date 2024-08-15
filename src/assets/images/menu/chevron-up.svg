@@ -1,0 +1,6 @@
+<svg id="chevron-down" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="chevron-down-2" data-name="chevron-down" transform="translate(16 16) rotate(180)">
+    <rect id="chevron-down-3" data-name="chevron-down" width="16" height="16" fill="none"/>
+    <path id="Icon" d="M8,0,4,4,0,0" transform="translate(4 6)" fill="none" stroke="#0745d3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

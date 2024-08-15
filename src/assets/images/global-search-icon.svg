@@ -1,0 +1,5 @@
+<svg id="search-refraction" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <rect id="search-refraction-2" data-name="search-refraction" width="16" height="16" fill="none"/>
+  <path id="Icon" d="M0,5.333a5.333,5.333,0,1,1,5.333,5.333A5.333,5.333,0,0,1,0,5.333Z" transform="translate(2 2)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  <path id="Icon-2" data-name="Icon" d="M12,12,9.1,9.1M5.333,2A3.333,3.333,0,0,1,8.667,5.333" transform="translate(2 2)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+</svg>

@@ -1,0 +1,67 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+
+@font-face {
+  font-family: 'WorkSans-Regular';
+  src: url('./assets/fonts/WorkSans-Regular.woff2') format('woff2'),
+    url('./assets/fonts/WorkSans-Regular.woff') format('woff'),
+    url("./assets/fonts/WorkSans-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'WorkSans-Bold';
+  src: url('./assets/fonts/WorkSans-Bold.woff2') format('woff2'),
+    url('./assets/fonts/WorkSans-Bold.woff') format('woff'),
+    url("./assets/fonts/WorkSans-Bold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'WorkSans-SemiBold';
+  src: url('./assets/fonts/WorkSans-SemiBold.woff2') format('woff2'),
+    url('./assets/fonts/WorkSans-SemiBold.woff') format('woff'),
+    url("./assets/fonts/WorkSans-SemiBold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'WorkSans-Medium';
+  src: url('./assets/fonts/WorkSans-Medium.woff2') format('woff2'),
+    url('./assets/fonts/WorkSans-Medium.woff') format('woff'),
+    url("./assets/fonts/WorkSans-Medium.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'WorkSans-MediumItalic';
+  src: url('./assets/fonts/WorkSans-MediumItalic.woff2') format('woff2'),
+    url('./assets/fonts/WorkSans-MediumItalic.woff') format('woff'),
+    url("./assets/fonts/WorkSans-MediumItalic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  font-family: WorkSans-Regular;
+  font-size: 14px;
+}
+
+body {
+  background-color: #f8f8fb !important;
+}

@@ -1,0 +1,8 @@
+<svg id="Component_104" data-name="Component 104" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="check-square" transform="translate(8 8)">
+    <rect id="check-square-2" data-name="check-square" width="16" height="16" fill="none"/>
+    <path id="Icon" d="M0,3.2A4.969,4.969,0,0,1,.218,1.092,2,2,0,0,1,1.092.218,4.969,4.969,0,0,1,3.2,0H8.8a4.969,4.969,0,0,1,2.108.218,2,2,0,0,1,.874.874A4.969,4.969,0,0,1,12,3.2V8.8a4.969,4.969,0,0,1-.218,2.108,2,2,0,0,1-.874.874A4.969,4.969,0,0,1,8.8,12H3.2a4.969,4.969,0,0,1-2.108-.218,2,2,0,0,1-.874-.874A4.969,4.969,0,0,1,0,8.8Z" transform="translate(2 2)" fill="#e6edfd" stroke="#0745d3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Icon-2" data-name="Icon" d="M9,4,5,8,3,6" transform="translate(2 2)" fill="none" stroke="#0745d3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+  <rect id="Rectangle_6813" data-name="Rectangle 6813" width="32" height="32" fill="none"/>
+</svg>
